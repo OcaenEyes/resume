@@ -252,10 +252,10 @@ width: 51px;
 height: 51px;
 border: none;
 text-indent: -999px;
-background: url(../images/ui.totop.png) no-repeat left top;
+background: url(../src/images/ui.totop.png) no-repeat left top;
 }
 #toTopHover {
-background: url(../images/ui.totop.png) no-repeat left -51px;
+background: url(../src/images/ui.totop.png) no-repeat left -51px;
 width: 51px;
 height: 51px;
 display: block;

@@ -126,7 +126,6 @@ jQuery(document).ready(function() {
 			
 	});
 	
-	<!-- End of jPreLoader script -->
 
 	function splashRotator(){
 		var cur = jQuery('#jSplash').children('.selected');
